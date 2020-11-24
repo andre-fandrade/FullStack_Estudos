@@ -6,7 +6,7 @@ from .models import Curso, Avaliacao
 from .serializers import CursoSerializer, AvaliacaoSerializer
 
 
-class CursosAPIView(APIView):
+class CursoAPIView(APIView):
     """
     API de Cursos André
     """
