@@ -1,8 +1,9 @@
-console.log('------- Estruturas Condicionais.');
-
 function cl(string) {
     console.log(string);
 }
+
+cl('------- Estruturas Condicionais.');
+
 
 var idade = 15;
 
