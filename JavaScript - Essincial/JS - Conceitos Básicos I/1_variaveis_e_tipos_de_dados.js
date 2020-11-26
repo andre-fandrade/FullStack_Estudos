@@ -1,3 +1,5 @@
+console.log('------- Tipos de Dados.');
+
 var nome1 = "André Felipe I";
 var nome2 = 'André Felipe II';
 
